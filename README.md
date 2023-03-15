@@ -5,24 +5,29 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Kivy, Flask
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I learned web-development way before "actually coding".
+- 🔭 I’m currently working on personal projects, and freelancing as a Graphic Designer and Illustrator.
+- 🌱 I’m currently learning Kivy, Flask, BeautifulSoup, mostly.
+- 👯 I’m looking to collaborate on open-source projects. Need a translator? Hit me up!
+- 🤔 I’m looking for help with grasping "how to github" properly.
+- 💬 Always open to learn new things, so hit me up with whatever you're interested in!
+- 📫 Feel free to reach me at: igordsmelo@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I learned web-development way before doing any "actual code". 
 -->
 
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">Python Developer, Designer and Illustrator from Brazil</h3>
 
-- 🌱 I’m currently learning **Kivy, Flask**
 
-- 💬 Ask me about **Anything design related.**
+- 🔭 I’m currently working on personal projects, and freelancing as a Graphic Designer and Illustrator.
+- 🌱 I’m currently learning Kivy, Flask, BeautifulSoup, mostly.
+- 👯 I’m looking to collaborate on open-source projects. Need a translator? Hit me up!
+- 🤔 I’m looking for help with grasping "how to github" properly.
+- 💬 Always open to learn new things, so hit me up with whatever you're interested in!
+- 📫 Feel free to reach me at: igordsmelo@gmail.com
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: I learned web-development way before doing any "actual code". 
 
-- 📫 How to reach me **igordsmelo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
