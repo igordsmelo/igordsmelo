@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects. Need a translator? Hit me up!
 - 🤔 I’m looking for help with grasping "how to github" properly.
 - 💬 Always open to learn new things, so hit me up with whatever you're interested in!
-- 📫 Feel free to reach me at: igordsmelo@gmail.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I learned web-development way before doing any "actual code". 
 -->
@@ -19,13 +18,10 @@ Here are some ideas to get you started:
 <h3 align="center">Python Developer, Designer and Illustrator from Brazil</h3>
 
 
-- 🔭 I’m currently working on personal projects, and freelancing as a Graphic Designer and Illustrator.
-- 🌱 I’m currently learning Kivy, Flask, BeautifulSoup, mostly.
-- 👯 I’m looking to collaborate on open-source projects. Need a translator? Hit me up!
-- 🤔 I’m looking for help with grasping "how to github" properly.
+- 🔭 Working on personal projects, and freelancing as a Graphic Designer and Illustrator.
+- 🌱 Learning Kivy, Flask, BeautifulSoup, mostly.
+- 👯 Looking to collaborate on open-source projects. Need a translator? Hit me up!
 - 💬 Always open to learn new things, so hit me up with whatever you're interested in!
-- 📫 Feel free to reach me at: igordsmelo@gmail.com
-- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I learned web-development way before doing any "actual code". 
 
 
