@@ -4,7 +4,7 @@
 - 🔭 Working on personal projects, and freelancing as a [Graphic Designer](https://behance.net/igordsmelo) and [Illustrator](https://artstation.com/igordoodles).
 - 🌱 Currently learning Python GUI Frameworks (PyQt and Kivy) and Web Development(Flask, Bootstrap, HTML, CSS and JavaScript)
 - 👯 Am open for work and collaboration on open-source projects. Need someone to translate your project (Brazilian Portuguese <> English)? Hit me up!
-- 💬 I'm also very interested in 3D Modeling and languages in general. With enough patience I can model simple projects on Blender, and understand 4 to 7 languages.
+- 💬 I'm also very interested in 3D Modeling and languages in general. With enough patience I can model simple projects on Blender, and understand 4 to 6 languages. (🇧🇷🇺🇸🇪🇸🇮🇹🇫🇷🇯🇵)
 - ⚡ Fun fact: My first contact with Web Development and Design was around 2013. It took me years to learn it was not only design, but also coding.
 # 🌐 Socials:
 
