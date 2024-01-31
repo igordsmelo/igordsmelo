@@ -8,7 +8,7 @@
 - ⚡ Fun fact: My first contact with Web Development and Design was around 2013. It took me years to learn it was not only design, but also coding.
 # 🌐 Socials:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@igordsmelo.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-d-s-melo-3073711b8/en)[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-d-s-melo-3073711b8/en)[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 ](https://behance.net/igordsmelo)
 
 # Languages, Frameworks and Tools
