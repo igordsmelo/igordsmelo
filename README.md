@@ -5,6 +5,7 @@
 - 🌱 Currently learning Python GUI Frameworks (PyQt and Kivy) and Web Development(Flask, Bootstrap, HTML, CSS and JavaScript)
 - 👯 I'm open for work and collaboration on open-source projects. Need someone to translate your project (🇧🇷 <> 🇺🇸)? Hit me up!
 - ⚡ Fun fact: My first contact with Web Development and Design was around 2013. It took me years to learn it was not only design, but also coding.
+
 # 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igor-d-s-melo-3073711b8/en)[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
