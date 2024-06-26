@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
 <h3 align="center">Designer, Developer and Illustrator from Brazil</h3>
 
+# About me
+
 - 🔭 Working on personal projects, and freelancing as a [Graphic Designer](https://behance.net/igordsmelo) and [Illustrator](https://artstation.com/igordoodles).
 - 🌱 Currently learning Python GUI Frameworks (PyQt and Kivy) and Web Development(Flask, Bootstrap, HTML, CSS and JavaScript)
 - 👯 I'm open for work and collaboration on open-source projects. Need someone to translate your project (🇧🇷 <> 🇺🇸)? Hit me up!
